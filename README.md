@@ -31,10 +31,7 @@ Scarl3t открывает перед вами уникальную возмож
 </details>
 
 ## Связаться со мной
-- Электронная почта: your-email@example.com
-- LinkedIn: [Ваш LinkedIn профиль](ссылка_на_ваш_linkedin)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Электронная почта: c1edue.dtt@gmail.com
 
-## Благодарность
-Благодарю вас за посещение моего профиля! Буду рад обсудить с вами любые вопросы или сотрудничество.
+
 
